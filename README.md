@@ -2,8 +2,15 @@
 
 I'm **Alexandre Klein**, a Software Engineer currently living in Novo Hamburgo, Brazil.
 
+Working @Fishtv leading the dev team and taking care of our server sand satellite broadcast equipment
+
+Developing daily with Vue, Laravel and NuxtJs
+
 I'm also a Father 👶, Beer Brewer 🍺 and [Event venue owner](https://www.facebook.com/CasteloIndoorPark) 🎉
 
-Working daily @Fishtv with Vue, Laravel and NuxtJs :yum:, taking care of linux servers, maintaining our satellite broadcast equipment and leading the dev team
+#### Links
+[Linkedin](https://www.linkedin.com/in/alexandre-l-klein/)
 
-[My personal page](https://alexandre.dev)
+[Personal page](https://alexandre.dev)
+
+[My event venue](https://www.facebook.com/CasteloIndoorPark) (closed while the pandemic lasts)
