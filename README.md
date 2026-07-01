@@ -126,22 +126,6 @@ I enjoy solving complex problems, taking ownership of critical systems end-to-en
 
 ---
 
-## 📊 GitHub stats
-
-> Stats are auto-generated weekly by a GitHub Action and committed to [`assets/stats/`](assets/stats/) — fully self-hosted, no live third-party calls.
-
-<div align="center">
-
-<img src="assets/stats/profile.svg" alt="GitHub Profile Stats" width="49%"/>
-<img src="assets/stats/streak.svg" alt="GitHub Streak Stats" width="49%"/>
-
-<img src="assets/stats/top-langs.svg" alt="Top Languages" width="60%"/>
-
-<sub>📌 Stats appear after the first successful run of the <a href="actions/workflows/stats.yml">stats workflow</a>. Trigger it manually from the Actions tab to populate them immediately.</sub>
-
-</div>
-
----
 
 ## 🚀 Featured work
 

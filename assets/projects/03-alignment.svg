@@ -1,42 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220" role="img" aria-label="Alignment Products Flagship Firmware">
-  <defs>
-    <linearGradient id="align-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#1a1f2e"/>
-    </linearGradient>
-  </defs>
-  <rect width="400" height="220" rx="12" fill="url(#align-bg)" stroke="#30363d" stroke-width="1"/>
-  <rect x="0" y="0" width="400" height="4" rx="2" fill="#7ee787"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220" role="img"
+    aria-label="Alignment Products Flagship Firmware">
+    <defs>
+        <linearGradient id="align-bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0d1117" />
+            <stop offset="100%" stop-color="#1a1f2e" />
+        </linearGradient>
+    </defs>
+    <rect width="400" height="220" rx="12" fill="url(#align-bg)" stroke="#30363d" stroke-width="1" />
+    <rect x="0" y="0" width="400" height="4" rx="2" fill="#7ee787" />
 
-  <text x="20" y="40" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">Flagship Firmware &amp; Hardware</text>
-  <text x="20" y="60" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#8b949e">Alignment Products Inc</text>
+    <text x="20" y="40" font-family="Segoe UI, system-ui, sans-serif" font-size="18"
+        font-weight="700" fill="#f0f6fc">Flagship Firmware &amp; Hardware</text>
+    <text x="20" y="60" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#8b949e">Alignment
+        Products Inc</text>
 
-  <text x="20" y="95" font-family="Segoe UI, system-ui, sans-serif" font-size="11" font-weight="600" fill="#7ee787">FIRMWARE &amp; HARDWARE ENGINEER · 03/2024 — PRESENT</text>
+    <text x="20" y="95" font-family="Segoe UI, system-ui, sans-serif" font-size="11"
+        font-weight="600" fill="#7ee787">FIRMWARE &amp; HARDWARE ENGINEER · 03/2024 — PRESENT</text>
 
-  <text x="20" y="130" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#c9d1d9">
-    <tspan x="20" dy="0">Designed firmware and hardware</tspan>
-    <tspan x="20" dy="16">architecture for the company's flagship</tspan>
-    <tspan x="20" dy="16">product. Direct hardware peripheral work.</tspan>
-  </text>
+    <text x="20" y="130" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#c9d1d9">
+        <tspan x="20" dy="0">Designed firmware and hardware</tspan>
+        <tspan x="20" dy="16">architecture for the company's flagship</tspan>
+        <tspan x="20" dy="16">product. Direct hardware peripheral work.</tspan>
+    </text>
 
-  <g transform="translate(20, 192)" font-family="Segoe UI, system-ui, sans-serif" font-size="10" font-weight="600">
-    <rect width="32" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787"/>
-    <text x="16" y="13" text-anchor="middle" fill="#7ee787">C</text>
-    <g transform="translate(38,0)">
-      <rect width="48" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787"/>
-      <text x="24" y="13" text-anchor="middle" fill="#7ee787">ARM</text>
+    <g transform="translate(20, 192)" font-family="Segoe UI, system-ui, sans-serif" font-size="10"
+        font-weight="600">
+        <rect width="32" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787" />
+        <text x="16" y="13" text-anchor="middle" fill="#7ee787">C</text>
+        <g transform="translate(38,0)">
+            <rect width="48" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787" />
+            <text x="24" y="13" text-anchor="middle" fill="#7ee787">ARM</text>
+        </g>
+        <g transform="translate(92,0)">
+            <rect width="56" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787" />
+            <text x="28" y="13" text-anchor="middle" fill="#7ee787">RTOS</text>
+        </g>
+        <g transform="translate(154,0)">
+            <rect width="84" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787" />
+            <text x="42" y="13" text-anchor="middle" fill="#7ee787">Firmware</text>
+        </g>
+        <g transform="translate(244,0)">
+            <rect width="92" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787" />
+            <text x="46" y="13" text-anchor="middle" fill="#7ee787">Hardware</text>
+        </g>
     </g>
-    <g transform="translate(92,0)">
-      <rect width="56" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787"/>
-      <text x="28" y="13" text-anchor="middle" fill="#7ee787">RTOS</text>
-    </g>
-    <g transform="translate(154,0)">
-      <rect width="84" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787"/>
-      <text x="42" y="13" text-anchor="middle" fill="#7ee787">Firmware</text>
-    </g>
-    <g transform="translate(244,0)">
-      <rect width="92" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787"/>
-      <text x="46" y="13" text-anchor="middle" fill="#7ee787">Hardware</text>
-    </g>
-  </g>
 </svg>
