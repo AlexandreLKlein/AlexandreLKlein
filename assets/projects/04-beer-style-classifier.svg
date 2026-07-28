@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220" role="img"
+    aria-label="Beer Style Classifier — AI Matching Against BJCP Guidelines">
+    <defs>
+        <linearGradient id="beerstyle-bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0d1117" />
+            <stop offset="100%" stop-color="#1a1f2e" />
+        </linearGradient>
+    </defs>
+    <rect width="400" height="220" rx="12" fill="url(#beerstyle-bg)" stroke="#30363d" stroke-width="1" />
+    <rect x="0" y="0" width="400" height="4" rx="2" fill="#a371f7" />
+
+    <text x="20" y="40" font-family="Segoe UI, system-ui, sans-serif" font-size="18"
+        font-weight="700" fill="#f0f6fc">Beer Style Classifier</text>
+    <text x="20" y="60" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#8b949e">AI Matching Against BJCP Guidelines</text>
+
+    <text x="20" y="95" font-family="Segoe UI, system-ui, sans-serif" font-size="11"
+        font-weight="600" fill="#a371f7">SIDE PROJECT</text>
+
+    <text x="20" y="130" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#c9d1d9">
+        <tspan x="20" dy="0">AI-assisted tool that matches</tspan>
+        <tspan x="20" dy="16">homebrew recipes to BJCP style</tspan>
+        <tspan x="20" dy="16">guidelines using Next.js and React.</tspan>
+    </text>
+
+    <g transform="translate(20, 192)" font-family="Segoe UI, system-ui, sans-serif" font-size="10"
+        font-weight="600">
+        <rect width="64" height="18" rx="3" fill="#a371f7" fill-opacity="0.15" stroke="#a371f7" />
+        <text x="32" y="13" text-anchor="middle" fill="#d2a8ff">Next.js</text>
+        <g transform="translate(70,0)">
+            <rect width="52" height="18" rx="3" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" />
+            <text x="26" y="13" text-anchor="middle" fill="#79c0ff">React</text>
+        </g>
+        <g transform="translate(128,0)">
+            <rect width="86" height="18" rx="3" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787" />
+            <text x="43" y="13" text-anchor="middle" fill="#7ee787">PostgreSQL</text>
+        </g>
+    </g>
+</svg>

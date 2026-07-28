@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://alexandre.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Senior+Software+Engineer;Embedded+%26+IoT+%C2%B7+Real-Time+C%2B%2B+%C2%B7+Full-Stack" alt="Typing SVG"/></a>
+<a href="https://alexandre.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Senior+Software+Engineer;Full-Stack+%C2%B7+Embedded+%26+IoT+%C2%B7+Real-Time+C%2B%2B" alt="Typing SVG"/></a>
 
 <br/><br/>
 
@@ -40,6 +40,11 @@ I enjoy solving complex problems, taking ownership of critical systems end-to-en
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
+      <h3>🌐 Full-Stack Product</h3>
+      <p>ERP/CRM/POS, AI-assisted classifiers, and behavioral-scoring platforms — integrating payments, IoT, and modern web stacks end-to-end.</p>
+      <p><sub><code>Laravel</code> · <code>FastAPI</code> · <code>Vue.js</code> · <code>Next.js</code></sub></p>
+    </td>
+    <td width="33%" align="center" valign="top">
       <h3>🛠️ Embedded &amp; IoT</h3>
       <p>Firmware for ARM microcontrollers, RTOS design, hardware integration, and electronic architecture for commercial products.</p>
       <p><sub><code>C</code> · <code>ARM</code> · <code>RTOS</code> · <code>Hardware</code></sub></p>
@@ -48,11 +53,6 @@ I enjoy solving complex problems, taking ownership of critical systems end-to-en
       <h3>⚡ Real-Time C++</h3>
       <p>High-performance C++17/20 platforms, networking &amp; streaming, multithreaded systems, and Unreal Engine integrations for VR.</p>
       <p><sub><code>C++20</code> · <code>Boost.Asio</code> · <code>UE5</code> · <code>VR</code></sub></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🌐 Full-Stack Product</h3>
-      <p>ERP, CRM, and POS platforms integrating payments, fiscal compliance, IoT, and business operations end-to-end.</p>
-      <p><sub><code>Laravel</code> · <code>Vue.js</code> · <code>PHP</code> · <code>Azure</code></sub></p>
     </td>
   </tr>
 </table>
@@ -105,10 +105,23 @@ I enjoy solving complex problems, taking ownership of critical systems end-to-en
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST"/>
+</p>
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 </details>
 
@@ -131,15 +144,11 @@ I enjoy solving complex problems, taking ownership of critical systems end-to-en
 <table>
   <tr>
     <td width="50%"><a href="RESUME.md"><img src="assets/projects/01-erp-breweries.svg" alt="ERP, CRM & POS for Breweries and Pubs" width="100%"/></a></td>
-    <td width="50%"><a href="RESUME.md"><img src="assets/projects/02-miris-3d.svg" alt="Real-Time 3D Platform — Miris/Illuscio" width="100%"/></a></td>
+    <td width="50%"><a href="RESUME.md"><img src="assets/projects/02-persona-classifier.svg" alt="Persona Classifier — Behavioral Customer Scoring" width="100%"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="RESUME.md"><img src="assets/projects/03-alignment.svg" alt="Flagship Firmware — Alignment Products" width="100%"/></a></td>
-    <td width="50%"><a href="RESUME.md"><img src="assets/projects/04-fishtv.svg" alt="ERP, CRM & Events Platform — FishTV" width="100%"/></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="RESUME.md"><img src="assets/projects/05-cross-platform.svg" alt="Cross-Platform Software Leadership" width="100%"/></a></td>
-    <td width="50%"><a href="RESUME.md"><img src="assets/projects/06-security.svg" alt="Security & Cyber Intelligence Foundations" width="100%"/></a></td>
+    <td width="50%"><a href="RESUME.md"><img src="assets/projects/03-brewery-automation-firmware.svg" alt="Brewery Automation Firmware — PID Control & Recipe Execution" width="100%"/></a></td>
+    <td width="50%"><a href="RESUME.md"><img src="assets/projects/04-beer-style-classifier.svg" alt="Beer Style Classifier — AI Matching Against BJCP Guidelines" width="100%"/></a></td>
   </tr>
 </table>
 
@@ -155,15 +164,15 @@ I enjoy solving complex problems, taking ownership of critical systems end-to-en
     </td>
     <td align="center" width="25%">
       <h2>Billions</h2>
-      <sub>of 3D points processed per second in real-time applications</sub>
+      <sub>of 3D points processed in real-time applications</sub>
     </td>
     <td align="center" width="25%">
       <h2>$5M+</h2>
       <sub>raised across products I helped build and lead</sub>
     </td>
     <td align="center" width="25%">
-      <h2>30%</h2>
-      <sub>efficiency gain leading secure cross-platform software</sub>
+      <h2>Leadership</h2>
+      <sub>across cross-platform, embedded &amp; backend systems</sub>
     </td>
   </tr>
 </table>
@@ -180,6 +189,31 @@ I enjoy solving complex problems, taking ownership of critical systems end-to-en
 
 **Software Developer** · **FishTV** · `09/2018 — 08/2021` · Brazil
 > Developed and maintained ERP and CRM systems, built software for championship and event management, designed REST APIs, and supported the full software lifecycle.
+
+**Lead Software Developer** · **Klein Sistemas Eletrônicos** · `01/2007 — 01/2018`
+> Progressed from technical roles to Lead Software Developer over more than a decade, owning end-to-end delivery across hardware and software — building embedded and application software in PHP, Laravel, C++, and C#, and contributing to circuit design and system integration across multidisciplinary projects.
+
+---
+
+## 📜 Patents
+
+| Patent | Number | Status | Date |
+| --- | --- | --- | --- |
+| Systems and methods for compressing three-dimensional image data | `US 11710258` | Active | 07/2025 |
+| Systems and methods for decompressing three-dimensional image data | `US 11893760` | Active | 02/2024 |
+| Systems and methods for augmented reality viewing based on directly mapped point cloud overlays | `US 11657586` | Active | 05/2023 |
+| Systems and methods for efficient rendering and processing of point clouds using textures | `US 11615578` | Active | 03/2023 |
+| Systems and methods for augmented reality viewing based on directly mapped point cloud overlays | `US 11538228` | Active | 12/2022 |
+
+---
+
+## 🎓 Education
+
+**Associate Degree in Brewing Technology** · **Universidade Pitágoras Unopar Anhanguera** · `01/2022 — 07/2023`
+
+**Postgraduate Degree in Offensive Security and Cyber Intelligence** · **Universidade Feevale** · `01/2019 — 01/2020`
+
+**Bachelor of Science in Computer Science** · **Universidade Feevale** · `2005 — 2011` · Novo Hamburgo, Brazil
 
 ---
 

@@ -61,14 +61,24 @@ I enjoy solving complex problems, taking ownership of critical systems end-to-en
 
 `C#` · `Laravel` · `JavaScript` · `REST APIs` · `SQL` · `Git`
 
+### Lead Software Developer — Klein Sistemas Eletrônicos
+**01/2007 — 01/2018**
+
+- Started in technical roles and progressed to Lead Software Developer, taking ownership of end-to-end delivery across hardware and software projects
+- Developed embedded and application software in PHP, Laravel, C++, and C# for products spanning internal tools and customer-facing systems
+- Contributed to hardware projects including circuit design and system integration, bridging electronics and software requirements
+- Collaborated on technical decisions, implementation planning, and delivery across multidisciplinary projects in a growing environment
+
+`PHP` · `Laravel` · `C++` · `C#` · `Circuit Design`
+
 ---
 
 ## Key Achievements
 
 - **ERP, CRM & POS for Breweries and Pubs** — Increased revenue 12.5× through the development of an integrated platform.
-- **Real-Time 3D Processing** — Achieved high-performance processing of billions of 3D points per second in real-time applications.
-- **Successful Fundraising Contributions** — Contributed to fundraising efforts exceeding $5 million through innovative product developments.
-- **Cross-Platform Software Efficiency** — Led a team to develop secure cross-platform software, improving efficiency by 30% in production environments.
+- **Real-Time 3D Processing at Scale** — Built high-performance systems for real-time processing of billions of 3D points, demonstrating deep expertise in point cloud performance, streaming, and large-scale visualization.
+- **Product Contribution Supporting Fundraising** — Contributed to core product development that helped support more than $5 million in fundraising, linking technical execution to business outcomes.
+- **Technical Leadership Across Complex Systems** — Led development across cross-platform, embedded, and backend systems, helping improve production efficiency and technical execution in fast-moving environments.
 
 ---
 
@@ -81,27 +91,45 @@ Developed an integrated ERP, CRM, and POS platform for breweries, supporting ope
 
 - Enabled a 12.5× increase in gross revenue while substantially reducing operational losses and waste through the implementation of an integrated ERP, CRM, and POS platform.
 - Significantly reduced inventory losses and waste through real-time stock control, production tracking, and automated consumption reconciliation.
-- Transformed brewery and pub operations by replacing fragmented manual processes with an integrated platform that became the single source of truth for the business.
+- Transformed brewery and pub operations by replacing fragmented manual processes with an integrated ERP, CRM, and POS platform that became the single source of truth for the business.
 - Created a loyalty ecosystem converting visitors into repeat customers, enhancing relationships and revenue.
+
+---
+
+## Patents
+
+- **Systems and methods for compressing three-dimensional image data** — `US 11710258` · Active · 07/2025
+- **Systems and methods for decompressing three-dimensional image data** — `US 11893760` · Active · 02/2024
+- **Systems and methods for augmented reality viewing based on directly mapped point cloud overlays** — `US 11657586` · Active · 05/2023
+- **Systems and methods for efficient rendering and processing of point clouds using textures** — `US 11615578` · Active · 03/2023
+- **Systems and methods for augmented reality viewing based on directly mapped point cloud overlays** — `US 11538228` · Active · 12/2022
+
+---
+
+## Education
+
+- **Associate Degree in Brewing Technology** — Universidade Pitágoras Unopar Anhanguera · `01/2022 — 07/2023`
+- **Postgraduate Degree in Offensive Security and Cyber Intelligence** — Universidade Feevale · `01/2019 — 01/2020`
+- **Bachelor of Science in Computer Science** — Universidade Feevale · `2005 — 2011` · Novo Hamburgo, Brazil
 
 ---
 
 ## Skills
 
 ### Languages
-`C++` · `C` · `PHP` · `Python` · `JavaScript` · `TypeScript`
+`PHP` · `Laravel` · `C++` · `C#` · `C` · `JavaScript` · `TypeScript`
 
 ### Build & DevOps
 `CMake` · `Git` · `CI/CD` · `Bash` · `PowerShell`
 
 ### Security
-`Secure software practices` · `Cybersecurity fundamentals` · `Offensive Security concepts` · `Endpoint security` · `Threat awareness`
+`Secure software practices` · `Cybersecurity fundamentals` · `Offensive Security concepts` · `Endpoint security interest` · `Threat awareness`
 
 ### Cloud
 `Azure` · `GCP and AWS concepts` · `Scalable architectures` · `Distributed systems`
 
 ### Embedded Systems
-`Firmware development` · `ARM microcontrollers` · `RTOS` · `Hardware integration` · `Electronic architecture design`
+`Hardware design` · `Circuit design` · `Embedded systems` · `Firmware development` · `ARM microcontrollers` · `RTOS` · `Hardware integration` · `Electronic architecture design`
 
 ### Networking
 `TCP/IP` · `UDP` · `Sockets` · `HTTP/HTTPS` · `REST APIs` · `Boost.Asio` · `Client-server architectures` · `Streaming systems` · `OpenSSL` · `mbedTLS` · `Certificate-based communication`
